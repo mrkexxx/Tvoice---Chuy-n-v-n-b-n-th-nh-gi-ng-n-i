@@ -1,0 +1,5 @@
+{
+  "name": "Tvoice - chuyển văn bản thành giọng nói ",
+  "description": "Một ứng dụng web sử dụng Gemini API để chuyển đổi văn bản thành giọng nói chất lượng cao với nhiều loại giọng đọc khác nhau. Chọn một giọng nói, nhập văn bản của bạn và tạo âm thanh.",
+  "requestFramePermissions": []
+}
